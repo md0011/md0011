@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 Hello, Good to have you here!!</h2>
 
-🌱 **About myself**<br>
+🌱 **About myself:**<br>
 
 ✔️ I am **Mayur Devle**, currently pursuing my Bachelor of Technology in *Electronics and Telecommunication Engineering* from Vishwakarma Institute of Technology, Pune. <br>
 
