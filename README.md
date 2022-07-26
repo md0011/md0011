@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ✔️ I keep myself motivated and active and I want to learn from more experienced people.
 
+--
+
+👨🏻‍💻 How to reach me:
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-d-609093224/)](https://www.linkedin.com/in/mayur-d-609093224/)
 
@@ -46,4 +49,3 @@ Here are some ideas to get you started:
 <!--  TOP LANGUAGES STATISTICS -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%)
  
- ---
