@@ -44,6 +44,6 @@ Here are some ideas to get you started:
  
  
 <!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%)
  
  ---
