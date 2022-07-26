@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ✔️ I keep myself motivated and active and I want to learn from more experienced people.
 
---
+---
 
 👨🏻‍💻 How to reach me:
 <!-- SOCAIL MEDIA HANDLES -->
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-mayurd0303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayurd0303@gmail.com)](mailto:mayurd0303@gmail.com)
 
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md0011&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
