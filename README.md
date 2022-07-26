@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **md0011/md0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+<h2 align=center>👋 Hello, Good to have you here!!</h2>
+
+🌱 **About myself**<br>
+
+✔️ I am **Mayur Devle**, currently pursuing my Bachelor of Technology in *Electronics and Telecommunication Engineering* from Vishwakarma Institute of Technology, Pune. <br>
+
+✔️ I am interested in Web Development; learning new programming languages and seeking exciting opportunities related to the same. <br>
+
+✔️ Proficient in HTML, CSS, JavaScript and Java. Passionate about implementing and launching new projects. <br>
+
+✔️ I keep my goals and tasks organized. 
+
+✔️ I keep myself motivated and active and I want to learn from more experienced people.
