@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-👥Connect with me:
+👥**Connect with me:**
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-d-609093224/)](https://www.linkedin.com/in/mayur-d-609093224/)
 
