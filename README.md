@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
+ 📶 **Stats:**<br><br>
  
  
 <!--  TOP LANGUAGES STATISTICS -->
