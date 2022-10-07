@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 👥**Connect with me:**
 <!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-d-609093224/)](https://www.linkedin.com/in/mayur-d-609093224/)
+[![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-dev/)](https://www.linkedin.com/in/mayur-dev/)
 
 [![Gmail Badge](https://img.shields.io/badge/-mayurd0303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayurd0303@gmail.com)](mailto:mayurd0303@gmail.com)
 
