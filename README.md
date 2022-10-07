@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ✔️ I am interested in Web Development; learning new programming languages and seeking exciting opportunities related to the same. <br>
 
-✔️ Proficient in HTML, CSS, JavaScript and Java. Passionate about implementing and launching new projects. <br>
+✔️ Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js(basic) and Java. Passionate about implementing and launching new projects. <br>
 
 ✔️ I keep my goals and tasks organized. 
 
