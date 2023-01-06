@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ✔️ I am **Mayur Devle**, currently pursuing my Bachelor of Technology in *Electronics and Telecommunication Engineering* from Vishwakarma Institute of Technology, Pune. <br>
 
-✔️ I am interested in Web Development; learning new programming languages and seeking exciting opportunities related to the same. <br>
+✔️ I am interested in Web Design; learning new programming languages and seeking exciting opportunities related to the same. <br>
 
-✔️ Proficient in HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js(basic) and Java. Passionate about implementing and launching new projects. <br>
+✔️ Proficient in Figma, HTML, CSS, Tailwind CSS, JavaScript, React.js and Java. Passionate about implementing and launching new projects. <br>
 
 ✔️ I keep my goals and tasks organized. 
 
