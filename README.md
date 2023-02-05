@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ✔️ I am interested in Web Design; learning new programming languages and seeking exciting opportunities related to the same. <br>
 
-✔️ Proficient in Figma, HTML, CSS, Tailwind CSS, JavaScript, React.js and Java. Passionate about implementing and launching new projects. <br>
+✔️ Proficient in UI-UX design, HTML, CSS, Tailwind CSS, JavaScript, React.js and Java. Passionate about implementing and launching new projects. <br>
 
 ✔️ I keep my goals and tasks organized. 
 
