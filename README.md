@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My job is to build functional and user-friendly websites for you.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/md0011/md0011/main/prof-img.gif">
 
-- 🔭 I am currently working on **Doctor Appointment System** project
+- 🔭 I am currently working on **Doctor Appointment System**
 
 - 🌱 I’m currently learning a **MERN Stack**
 
