@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Web Developer</h3>
 <p align="center">I enjoy turning complex problems into simple, beautiful, intuitive solutions.
 My job is to build functional and user-friendly websites for you.</p>
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/md0011/md0011/main/prof-img.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/md0011/md0011/main/prof-img.gif">
 
 - 🔭 I am currently working on **Doctor Appointment System** project
 
