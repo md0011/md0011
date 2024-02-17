@@ -13,41 +13,59 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Hello, Good to have you here!!</h2>
+<h1 align="center">Hello, I'm Mayur Devle</h1>
+<h3 align="center">Web Developer</h3>
+<p align="center">I enjoy turning complex problems into simple, beautiful, intuitive solutions.
+My job is to build functional and user-friendly websites for you.</p>
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/md0011/md0011/main/prof-img.gif">
 
-🌱 **About myself:**<br>
+- 🔭 I am currently working on **Doctor Appointment System** project
 
-✔️ I am **Mayur Devle**, currently pursuing my Bachelor of Technology in *Electronics and Telecommunication Engineering* from Vishwakarma Institute of Technology, Pune. <br>
+- 🌱 I’m currently learning a **MERN Stack**
 
-✔️ I am interested in Web Design; learning new programming languages and seeking exciting opportunities related to the same. <br>
+- 💬 Ask me about **JavaScript , React , Next.js**
 
-✔️ Proficient in UI-UX design, HTML, CSS, Tailwind CSS, JavaScript, React.js and Java. Passionate about implementing and launching new projects. <br>
+- 📫 How to reach me **mayurd0303@gmail.com**
 
-✔️ I keep my goals and tasks organized. 
+- 😄 Pronouns: **He/Him**
 
-✔️ I keep myself motivated and active and I want to learn from more experienced people.
+- ⚡ Fun fact **I love to Learn New Things and Technologies**
+
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/tailwind-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<!--
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+👥 **Connect with me:**
+[![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-dev/)](https://www.linkedin.com/in/mayur-dev/)  [![Gmail Badge](https://img.shields.io/badge/-mayurd0303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayurd0303@gmail.com)](mailto:mayurd0303@gmail.com)
+
+-->
 
 ---
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md0011&theme=radical&hide_border=true)](https://git.io/streak-stats) 
 
-👥**Connect with me:**
-<!-- SOCAIL MEDIA HANDLES -->
-[![Linkedin Badge](https://img.shields.io/badge/-MayurDevle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayur-dev/)](https://www.linkedin.com/in/mayur-dev/)
-
-[![Gmail Badge](https://img.shields.io/badge/-mayurd0303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayurd0303@gmail.com)](mailto:mayurd0303@gmail.com)
-
----
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md0011&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
 
 <!-- STATISTICS ABOUT PROFILE -->
-
- 📶 **Stats:**<br><br>
  
- 
+<!-- 📶 **Stats:** <br><br>  -->
 <!--  TOP LANGUAGES STATISTICS -->
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%)
- 
+
 
