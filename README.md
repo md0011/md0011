@@ -57,8 +57,9 @@ My job is to build functional and user-friendly websites for you.</p>
 -->
 
 ---
+
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=md0011&theme=radical&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=md0011&theme=radical&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 
 <!-- STATISTICS ABOUT PROFILE -->
@@ -66,6 +67,7 @@ My job is to build functional and user-friendly websites for you.</p>
 <!-- 📶 **Stats:** <br><br>  -->
 <!--  TOP LANGUAGES STATISTICS -->
   
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%) -->
-
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md0011&theme=dark&layout=compact&align=right&width=40%) 
+-->
 
