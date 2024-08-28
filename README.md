@@ -21,7 +21,7 @@ My job is to build functional and user-friendly websites for you.</p>
 
 <!-- - 🔭 I'm currently working on **Doctor Appointment System** -->
 
-- 🌱 I’m currently learning a **Web3**
+- 🌱 I’m currently learning a **Web3 Technology**
 
 - 💬 Ask me about **JavaScript , React , Next.js**
 
